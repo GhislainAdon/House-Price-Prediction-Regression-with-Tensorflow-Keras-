@@ -1,6 +1,6 @@
 # House Price Prediction(Regression) with Tensorflow - Keras
 
-<img src="/image.jpg" width="1000" height="300" />
+<img src="/house.jpg" width="1000" height="300" />
 <div align="justify">
 
 ## Tensorflow and Keras
